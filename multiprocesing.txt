@@ -1,0 +1,960 @@
+Script started on 2022-02-08 01:21:49+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="79" LINES="24"]
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3[00m$ gt[Kit cln[Kone git[K[K[Kgit@github.com:pablobotet2/Prpa.git
+fatal: destination path 'Prpa' already exists and is not an empty directory.
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3[00m$ pyghon[K[K[K[Kthon [K3 1proc[K[K[K[K_prc[Kocesos .py
+fin
+hola soy ana 3 vuelta 0
+hola soy ana 1 vuelta 0
+hola soy ana 7 vuelta 0
+hola soy ana 6 vuelta 0
+hola soy ana 4 vuelta 0
+hola soy ana 5 vuelta 0
+hola soy ana 0 vuelta 0
+hola soy ana 2 vuelta 0
+hola soy ana 8 vuelta 0
+adios
+hola soy ana 9 vuelta 0
+hola soy ana 9 vuelta 1
+hola soy ana 2 vuelta 1
+hola soy ana 5 vuelta 1
+hola soy ana 3 vuelta 1
+hola soy ana 8 vuelta 1
+hola soy ana 9 vuelta 2
+hola soy ana 2 vuelta 2
+hola soy ana 4 vuelta 1
+hola soy ana 6 vuelta 1
+hola soy ana 1 vuelta 1
+hola soy ana 6 vuelta 2
+hola soy ana 7 vuelta 1
+hola soy ana 7 vuelta 2
+hola soy ana 5 vuelta 2
+hola soy ana 0 vuelta 1
+hola soy ana 3 vuelta 2
+hola soy ana 0 vuelta 2
+hola soy ana 8 vuelta 2
+hola soy ana 1 vuelta 2
+hola soy ana 4 vuelta 2
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3[00m$ git add 1_prce[K[Kocesos .py
+fatal: not a git repository (or any of the parent directories): .git
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3[00m$ git add
+fatal: not a git repository (or any of the parent directories): .git
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3[00m$ la[Ks
+1_procesos.py  history_internal.py  [0m[01;34mplugins[0m         template.py
+2_procesos.py  history.py           [01;34mPrpa[0m            temp.py
+3_procesos.py  langconfig           spyder.ini      workingdir
+[01;34mdb[0m             multiprocesing.txt   spyder.ini.bak
+[01;34mdefaults[0m       [01;34mpablobotet2[0m          [40;31;01mspyder.lock[0m
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3[00m$ git adad[K[Kd .
+fatal: not a git repository (or any of the parent directories): .git
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3[00m$ cd Pra[Kpa
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ a[Kgit add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+	add
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ git add .
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ git add 1_prc [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kro cesosy[K.py
+fatal: pathspec '1_procesos.py' did not match any files
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ cd ..
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3[00m$ ls
+1_procesos.py  history_internal.py  [0m[01;34mplugins[0m         template.py
+2_procesos.py  history.py           [01;34mPrpa[0m            temp.py
+3_procesos.py  langconfig           spyder.ini      workingdir
+[01;34mdb[0m             multiprocesing.txt   spyder.ini.bak
+[01;34mdefaults[0m       [01;34mpablobotet2[0m          [40;31;01mspyder.lock[0m
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3[00m$ cp 1_procesos.py P rpa
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3[00m$ g[Kcd Prpa
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ ls
+0_procesos.py  1_procesos.py  LICENSE  README.md
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ git add 1_pro ceo[Ksos.py
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ git commit -m  "1"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'pablo@pablo-HP-Pavilion-g6-Notebook-PC.(none)')
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ git config [K]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ git config [K]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ git config --globoa[K[Kal ul[Ksu[Ker.email.[K pablbo[K[Kobotet@g[Ku[Koutlook.com
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ git config --global user.email pablobotet@outlook.commmit -m "1"[K
+[main 05b77e7] 1
+ 1 file changed, 31 insertions(+)
+ create mode 100644 1_procesos.py
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ c[Kgit commit -m "1"nfig --global user.email pablobotet@outlook.commmit -m "1"[Kadd 1_procesos.pyls[Kcd Prpa[14@p 1_procesos.py[C[C[C[C[C[1P[1@2
+cp: cannot stat '2_procesos.py': No such file or directory
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ cd ..
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3[00m$ cd ..p 2_procesos.py Prpa
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3[00m$ cp 2_procesos.py Prpa[1P[1@3
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3[00m$ cd Prpa
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ ls
+0_procesos.py  1_procesos.py  2_procesos.py  3_procesos.py  LICENSE  README.md
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ python3 2_procesos.py
+hola soy ana_1, 51792,True,vuelta0
+fin
+hola soy ana_2, 51793,True,vuelta0
+hola soy ana_0, 51791,True,vuelta0
+adios
+hola soy ana_2, 51793,True,vuelta1
+hola soy ana_1, 51792,True,vuelta1
+hola soy ana_0, 51791,True,vuelta1
+hola soy ana_2, 51793,True,vuelta2
+hola soy ana_1, 51792,True,vuelta2
+hola soy ana_0, 51791,True,vuelta2
+hola soy ana_2, 51793,True,vuelta3
+hola soy ana_1, 51792,True,vuelta3
+hola soy ana_1, 51792,True,vuelta4
+hola soy ana_2, 51793,True,vuelta4
+hola soy ana_0, 51791,True,vuelta3
+hola soy ana_0, 51791,True,vuelta4
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ git add 2_procesos.py
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ gt[Kit commit -m "2"
+[main 7fbe7e1] 2
+ 1 file changed, 35 insertions(+)
+ create mode 100644 2_procesos.py
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ git add 3[K[K[K[K[K[K[K[K[Kpython [K3 e[K3_r[Kprocess[Kos.py
+Valor inicial del contador 0
+hola soy 52266,vuelta:0,contador:0
+hola soy 52269,vuelta:0,contador:0
+hola soy 52265,vuelta:0,contador:0
+hola soy 52264,vuelta:0,contador:0
+hola soy 52273,vuelta:0,contador:0
+hola soy 52271,vuelta:0,contador:0
+hola soy 52270,vuelta:0,contador:0
+hola soy 52272,vuelta:0,contador:0
+hola soy 52266,vuelta:1,contador:1
+hola soy 52269,vuelta:1,contador:1
+hola soy 52265,vuelta:1,contador:1
+hola soy 52264,vuelta:1,contador:1
+hola soy 52271,vuelta:1,contador:1
+hola soy 52273,vuelta:1,contador:1
+hola soy 52270,vuelta:1,contador:1
+hola soy 52272,vuelta:1,contador:1
+hola soy 52266,vuelta:2,contador:2
+hola soy 52269,vuelta:2,contador:2
+hola soy 52265,vuelta:2,contador:2
+hola soy 52264,vuelta:2,contador:2
+hola soy 52273,vuelta:2,contador:2
+hola soy 52271,vuelta:2,contador:2
+hola soy 52270,vuelta:2,contador:2
+hola soy 52272,vuelta:2,contador:2
+hola soy 52266,vuelta:3,contador:3
+hola soy 52269,vuelta:3,contador:3
+hola soy 52265,vuelta:3,contador:3
+hola soy 52264,vuelta:3,contador:3
+hola soy 52271,vuelta:3,contador:3
+hola soy 52273,vuelta:3,contador:3
+hola soy 52270,vuelta:3,contador:3
+hola soy 52272,vuelta:3,contador:3
+hola soy 52266,vuelta:4,contador:4
+hola soy 52269,vuelta:4,contador:4
+hola soy 52265,vuelta:4,contador:4
+hola soy 52264,vuelta:4,contador:4
+hola soy 52273,vuelta:4,contador:4
+hola soy 52271,vuelta:4,contador:4
+hola soy 52270,vuelta:4,contador:4
+hola soy 52272,vuelta:4,contador:4
+hola soy 52266,vuelta:5,contador:5
+hola soy 52269,vuelta:5,contador:5
+hola soy 52265,vuelta:5,contador:5
+hola soy 52264,vuelta:5,contador:5
+hola soy 52271,vuelta:5,contador:5
+hola soy 52273,vuelta:5,contador:5
+hola soy 52270,vuelta:5,contador:5
+hola soy 52272,vuelta:5,contador:5
+hola soy 52266,vuelta:6,contador:6
+hola soy 52269,vuelta:6,contador:6
+hola soy 52265,vuelta:6,contador:6
+hola soy 52264,vuelta:6,contador:6
+hola soy 52273,vuelta:6,contador:6
+hola soy 52271,vuelta:6,contador:6
+hola soy 52270,vuelta:6,contador:6
+hola soy 52272,vuelta:6,contador:6
+hola soy 52266,vuelta:7,contador:7
+hola soy 52269,vuelta:7,contador:7
+hola soy 52265,vuelta:7,contador:7
+hola soy 52264,vuelta:7,contador:7
+hola soy 52271,vuelta:7,contador:7
+hola soy 52273,vuelta:7,contador:7
+hola soy 52270,vuelta:7,contador:7
+hola soy 52272,vuelta:7,contador:7
+hola soy 52266,vuelta:8,contador:8
+hola soy 52269,vuelta:8,contador:8
+hola soy 52265,vuelta:8,contador:8
+hola soy 52264,vuelta:8,contador:8
+hola soy 52273,vuelta:8,contador:8
+hola soy 52271,vuelta:8,contador:8
+hola soy 52270,vuelta:8,contador:8
+hola soy 52272,vuelta:8,contador:8
+hola soy 52266,vuelta:9,contador:9
+hola soy 52269,vuelta:9,contador:9
+hola soy 52264,vuelta:9,contador:9
+hola soy 52265,vuelta:9,contador:9
+hola soy 52271,vuelta:9,contador:9
+hola soy 52273,vuelta:9,contador:9
+hola soy 52270,vuelta:9,contador:9
+hola soy 52272,vuelta:9,contador:9
+hola soy 52266,vuelta:10,contador:10
+hola soy 52269,vuelta:10,contador:10
+hola soy 52265,vuelta:10,contador:10
+hola soy 52264,vuelta:10,contador:10
+hola soy 52271,vuelta:10,contador:10
+hola soy 52270,vuelta:10,contador:10
+hola soy 52272,vuelta:10,contador:10
+hola soy 52273,vuelta:10,contador:10
+hola soy 52266,vuelta:11,contador:11
+hola soy 52269,vuelta:11,contador:11
+hola soy 52265,vuelta:11,contador:11
+hola soy 52264,vuelta:11,contador:11
+hola soy 52271,vuelta:11,contador:11
+hola soy 52270,vuelta:11,contador:11
+hola soy 52272,vuelta:11,contador:11
+hola soy 52273,vuelta:11,contador:11
+hola soy 52266,vuelta:12,contador:12
+hola soy 52269,vuelta:12,contador:12
+hola soy 52265,vuelta:12,contador:12
+hola soy 52264,vuelta:12,contador:12
+hola soy 52271,vuelta:12,contador:12
+hola soy 52272,vuelta:12,contador:12
+hola soy 52270,vuelta:12,contador:12
+hola soy 52273,vuelta:12,contador:12
+hola soy 52266,vuelta:13,contador:13
+hola soy 52269,vuelta:13,contador:13
+hola soy 52265,vuelta:13,contador:13
+hola soy 52264,vuelta:13,contador:13
+hola soy 52271,vuelta:13,contador:13
+hola soy 52270,vuelta:13,contador:13
+hola soy 52272,vuelta:13,contador:13
+hola soy 52273,vuelta:13,contador:13
+hola soy 52266,vuelta:14,contador:14
+hola soy 52269,vuelta:14,contador:14
+hola soy 52264,vuelta:14,contador:14
+hola soy 52265,vuelta:14,contador:14
+hola soy 52271,vuelta:14,contador:14
+hola soy 52270,vuelta:14,contador:14
+hola soy 52272,vuelta:14,contador:14
+hola soy 52273,vuelta:14,contador:14
+hola soy 52266,vuelta:15,contador:15
+hola soy 52269,vuelta:15,contador:15
+hola soy 52265,vuelta:15,contador:15
+hola soy 52264,vuelta:15,contador:15
+hola soy 52271,vuelta:15,contador:15
+hola soy 52272,vuelta:15,contador:15
+hola soy 52270,vuelta:15,contador:15
+hola soy 52273,vuelta:15,contador:15
+hola soy 52266,vuelta:16,contador:16
+hola soy 52269,vuelta:16,contador:16
+hola soy 52264,vuelta:16,contador:16
+hola soy 52265,vuelta:16,contador:16
+hola soy 52271,vuelta:16,contador:16
+hola soy 52270,vuelta:16,contador:16
+hola soy 52272,vuelta:16,contador:16
+hola soy 52273,vuelta:16,contador:16
+hola soy 52266,vuelta:17,contador:17
+hola soy 52269,vuelta:17,contador:17
+hola soy 52265,vuelta:17,contador:17
+hola soy 52264,vuelta:17,contador:17
+hola soy 52270,vuelta:17,contador:17
+hola soy 52271,vuelta:17,contador:17
+hola soy 52272,vuelta:17,contador:17
+hola soy 52273,vuelta:17,contador:17
+hola soy 52266,vuelta:18,contador:18
+hola soy 52269,vuelta:18,contador:18
+hola soy 52264,vuelta:18,contador:18
+hola soy 52265,vuelta:18,contador:18
+hola soy 52271,vuelta:18,contador:18
+hola soy 52270,vuelta:18,contador:18
+hola soy 52272,vuelta:18,contador:18
+hola soy 52273,vuelta:18,contador:18
+hola soy 52266,vuelta:19,contador:19
+hola soy 52269,vuelta:19,contador:19
+hola soy 52265,vuelta:19,contador:19
+hola soy 52264,vuelta:19,contador:19
+hola soy 52270,vuelta:19,contador:19
+hola soy 52272,vuelta:19,contador:19
+hola soy 52271,vuelta:19,contador:19
+hola soy 52273,vuelta:19,contador:19
+hola soy 52266,vuelta:20,contador:20
+hola soy 52269,vuelta:20,contador:20
+hola soy 52264,vuelta:20,contador:20
+hola soy 52265,vuelta:20,contador:20
+hola soy 52272,vuelta:20,contador:20
+hola soy 52270,vuelta:20,contador:20
+hola soy 52271,vuelta:20,contador:20
+hola soy 52273,vuelta:20,contador:20
+hola soy 52266,vuelta:21,contador:21
+hola soy 52269,vuelta:21,contador:21
+hola soy 52265,vuelta:21,contador:21
+hola soy 52264,vuelta:21,contador:21
+hola soy 52272,vuelta:21,contador:21
+hola soy 52271,vuelta:21,contador:21
+hola soy 52270,vuelta:21,contador:21
+hola soy 52273,vuelta:21,contador:21
+hola soy 52266,vuelta:22,contador:22
+hola soy 52269,vuelta:22,contador:22
+hola soy 52264,vuelta:22,contador:22
+hola soy 52265,vuelta:22,contador:22
+hola soy 52271,vuelta:22,contador:22
+hola soy 52272,vuelta:22,contador:22
+hola soy 52270,vuelta:22,contador:22
+hola soy 52273,vuelta:22,contador:22
+hola soy 52266,vuelta:23,contador:23
+hola soy 52269,vuelta:23,contador:23
+hola soy 52265,vuelta:23,contador:23
+hola soy 52264,vuelta:23,contador:23
+hola soy 52272,vuelta:23,contador:23
+hola soy 52270,vuelta:23,contador:23
+hola soy 52271,vuelta:23,contador:23
+hola soy 52273,vuelta:23,contador:23
+hola soy 52266,vuelta:24,contador:24
+hola soy 52269,vuelta:24,contador:24
+hola soy 52265,vuelta:24,contador:24
+hola soy 52264,vuelta:24,contador:24
+hola soy 52270,vuelta:24,contador:24
+hola soy 52272,vuelta:24,contador:24
+hola soy 52271,vuelta:24,contador:24
+hola soy 52273,vuelta:24,contador:24
+hola soy 52266,vuelta:25,contador:25
+hola soy 52269,vuelta:25,contador:25
+hola soy 52264,vuelta:25,contador:25
+hola soy 52265,vuelta:25,contador:25
+hola soy 52270,vuelta:25,contador:25
+hola soy 52271,vuelta:25,contador:25
+hola soy 52273,vuelta:25,contador:25
+hola soy 52272,vuelta:25,contador:25
+hola soy 52266,vuelta:26,contador:26
+hola soy 52269,vuelta:26,contador:26
+hola soy 52265,vuelta:26,contador:26
+hola soy 52264,vuelta:26,contador:26
+hola soy 52271,vuelta:26,contador:26
+hola soy 52270,vuelta:26,contador:26
+hola soy 52273,vuelta:26,contador:26
+hola soy 52272,vuelta:26,contador:26
+hola soy 52266,vuelta:27,contador:27
+hola soy 52269,vuelta:27,contador:27
+hola soy 52264,vuelta:27,contador:27
+hola soy 52265,vuelta:27,contador:27
+hola soy 52270,vuelta:27,contador:27
+hola soy 52271,vuelta:27,contador:27
+hola soy 52272,vuelta:27,contador:27
+hola soy 52273,vuelta:27,contador:27
+hola soy 52266,vuelta:28,contador:28
+hola soy 52269,vuelta:28,contador:28
+hola soy 52264,vuelta:28,contador:28
+hola soy 52265,vuelta:28,contador:28
+hola soy 52271,vuelta:28,contador:28
+hola soy 52272,vuelta:28,contador:28
+hola soy 52270,vuelta:28,contador:28
+hola soy 52273,vuelta:28,contador:28
+hola soy 52266,vuelta:29,contador:29
+hola soy 52269,vuelta:29,contador:29
+hola soy 52265,vuelta:29,contador:29
+hola soy 52264,vuelta:29,contador:29
+hola soy 52272,vuelta:29,contador:29
+hola soy 52273,vuelta:29,contador:29
+hola soy 52270,vuelta:29,contador:29
+hola soy 52271,vuelta:29,contador:29
+hola soy 52266,vuelta:30,contador:30
+hola soy 52269,vuelta:30,contador:30
+hola soy 52264,vuelta:30,contador:30
+hola soy 52265,vuelta:30,contador:30
+hola soy 52273,vuelta:30,contador:30
+hola soy 52270,vuelta:30,contador:30
+hola soy 52271,vuelta:30,contador:30
+hola soy 52272,vuelta:30,contador:30
+hola soy 52266,vuelta:31,contador:31
+hola soy 52269,vuelta:31,contador:31
+hola soy 52265,vuelta:31,contador:31
+hola soy 52264,vuelta:31,contador:31
+hola soy 52270,vuelta:31,contador:31
+hola soy 52271,vuelta:31,contador:31
+hola soy 52272,vuelta:31,contador:31
+hola soy 52273,vuelta:31,contador:31
+hola soy 52266,vuelta:32,contador:32
+hola soy 52269,vuelta:32,contador:32
+hola soy 52265,vuelta:32,contador:32
+hola soy 52264,vuelta:32,contador:32
+hola soy 52271,vuelta:32,contador:32
+hola soy 52272,vuelta:32,contador:32
+hola soy 52273,vuelta:32,contador:32
+hola soy 52270,vuelta:32,contador:32
+hola soy 52266,vuelta:33,contador:33
+hola soy 52269,vuelta:33,contador:33
+hola soy 52264,vuelta:33,contador:33
+hola soy 52265,vuelta:33,contador:33
+hola soy 52272,vuelta:33,contador:33
+hola soy 52273,vuelta:33,contador:33
+hola soy 52270,vuelta:33,contador:33
+hola soy 52271,vuelta:33,contador:33
+hola soy 52266,vuelta:34,contador:34
+hola soy 52269,vuelta:34,contador:34
+hola soy 52264,vuelta:34,contador:34
+hola soy 52265,vuelta:34,contador:34
+hola soy 52273,vuelta:34,contador:34
+hola soy 52272,vuelta:34,contador:34
+hola soy 52270,vuelta:34,contador:34
+hola soy 52271,vuelta:34,contador:34
+hola soy 52266,vuelta:35,contador:35
+hola soy 52269,vuelta:35,contador:35
+hola soy 52264,vuelta:35,contador:35
+hola soy 52265,vuelta:35,contador:35
+hola soy 52273,vuelta:35,contador:35
+hola soy 52272,vuelta:35,contador:35
+hola soy 52270,vuelta:35,contador:35
+hola soy 52271,vuelta:35,contador:35
+hola soy 52266,vuelta:36,contador:36
+hola soy 52269,vuelta:36,contador:36
+hola soy 52264,vuelta:36,contador:36
+hola soy 52265,vuelta:36,contador:36
+hola soy 52273,vuelta:36,contador:36
+hola soy 52272,vuelta:36,contador:36
+hola soy 52271,vuelta:36,contador:36
+hola soy 52270,vuelta:36,contador:36
+hola soy 52266,vuelta:37,contador:37
+hola soy 52269,vuelta:37,contador:37
+hola soy 52264,vuelta:37,contador:37
+hola soy 52265,vuelta:37,contador:37
+hola soy 52273,vuelta:37,contador:37
+hola soy 52272,vuelta:37,contador:37
+hola soy 52270,vuelta:37,contador:37
+hola soy 52271,vuelta:37,contador:37
+hola soy 52266,vuelta:38,contador:38
+hola soy 52269,vuelta:38,contador:38
+hola soy 52264,vuelta:38,contador:38
+hola soy 52265,vuelta:38,contador:38
+hola soy 52272,vuelta:38,contador:38
+hola soy 52273,vuelta:38,contador:38
+hola soy 52270,vuelta:38,contador:38
+hola soy 52271,vuelta:38,contador:38
+hola soy 52266,vuelta:39,contador:39
+hola soy 52269,vuelta:39,contador:39
+hola soy 52264,vuelta:39,contador:39
+hola soy 52265,vuelta:39,contador:39
+hola soy 52272,vuelta:39,contador:39
+hola soy 52271,vuelta:39,contador:39
+hola soy 52270,vuelta:39,contador:39
+hola soy 52273,vuelta:39,contador:39
+hola soy 52266,vuelta:40,contador:40
+hola soy 52269,vuelta:40,contador:40
+hola soy 52264,vuelta:40,contador:40
+hola soy 52265,vuelta:40,contador:40
+hola soy 52270,vuelta:40,contador:40
+hola soy 52271,vuelta:40,contador:40
+hola soy 52273,vuelta:40,contador:40
+hola soy 52272,vuelta:40,contador:40
+hola soy 52266,vuelta:41,contador:41
+hola soy 52269,vuelta:41,contador:41
+hola soy 52264,vuelta:41,contador:41
+hola soy 52265,vuelta:41,contador:41
+hola soy 52271,vuelta:41,contador:41
+hola soy 52270,vuelta:41,contador:41
+hola soy 52273,vuelta:41,contador:41
+hola soy 52272,vuelta:41,contador:41
+hola soy 52266,vuelta:42,contador:42
+hola soy 52269,vuelta:42,contador:42
+hola soy 52264,vuelta:42,contador:42
+hola soy 52265,vuelta:42,contador:42
+hola soy 52270,vuelta:42,contador:42
+hola soy 52273,vuelta:42,contador:42
+hola soy 52271,vuelta:42,contador:42
+hola soy 52272,vuelta:42,contador:42
+hola soy 52266,vuelta:43,contador:43
+hola soy 52269,vuelta:43,contador:43
+hola soy 52264,vuelta:43,contador:43
+hola soy 52265,vuelta:43,contador:43
+hola soy 52270,vuelta:43,contador:43
+hola soy 52273,vuelta:43,contador:43
+hola soy 52272,vuelta:43,contador:43
+hola soy 52271,vuelta:43,contador:43
+hola soy 52266,vuelta:44,contador:44
+hola soy 52269,vuelta:44,contador:44
+hola soy 52264,vuelta:44,contador:44
+hola soy 52265,vuelta:44,contador:44
+hola soy 52273,vuelta:44,contador:44
+hola soy 52270,vuelta:44,contador:44
+hola soy 52272,vuelta:44,contador:44
+hola soy 52271,vuelta:44,contador:44
+hola soy 52266,vuelta:45,contador:45
+hola soy 52269,vuelta:45,contador:45
+hola soy 52264,vuelta:45,contador:45
+hola soy 52265,vuelta:45,contador:45
+hola soy 52273,vuelta:45,contador:45
+hola soy 52270,vuelta:45,contador:45
+hola soy 52272,vuelta:45,contador:45
+hola soy 52271,vuelta:45,contador:45
+hola soy 52266,vuelta:46,contador:46
+hola soy 52269,vuelta:46,contador:46
+hola soy 52264,vuelta:46,contador:46
+hola soy 52265,vuelta:46,contador:46
+hola soy 52270,vuelta:46,contador:46
+hola soy 52273,vuelta:46,contador:46
+hola soy 52272,vuelta:46,contador:46
+hola soy 52271,vuelta:46,contador:46
+hola soy 52266,vuelta:47,contador:47
+hola soy 52269,vuelta:47,contador:47
+hola soy 52264,vuelta:47,contador:47
+hola soy 52265,vuelta:47,contador:47
+hola soy 52273,vuelta:47,contador:47
+hola soy 52272,vuelta:47,contador:47
+hola soy 52270,vuelta:47,contador:47
+hola soy 52271,vuelta:47,contador:47
+hola soy 52266,vuelta:48,contador:48
+hola soy 52269,vuelta:48,contador:48
+hola soy 52264,vuelta:48,contador:48
+hola soy 52265,vuelta:48,contador:48
+hola soy 52272,vuelta:48,contador:48
+hola soy 52273,vuelta:48,contador:48
+hola soy 52270,vuelta:48,contador:48
+hola soy 52271,vuelta:48,contador:48
+hola soy 52266,vuelta:49,contador:49
+hola soy 52269,vuelta:49,contador:49
+hola soy 52264,vuelta:49,contador:49
+hola soy 52265,vuelta:49,contador:49
+hola soy 52272,vuelta:49,contador:49
+hola soy 52270,vuelta:49,contador:49
+hola soy 52273,vuelta:49,contador:49
+hola soy 52271,vuelta:49,contador:49
+hola soy 52266,vuelta:50,contador:50
+hola soy 52269,vuelta:50,contador:50
+hola soy 52264,vuelta:50,contador:50
+hola soy 52265,vuelta:50,contador:50
+hola soy 52272,vuelta:50,contador:50
+hola soy 52270,vuelta:50,contador:50
+hola soy 52273,vuelta:50,contador:50
+hola soy 52271,vuelta:50,contador:50
+hola soy 52266,vuelta:51,contador:51
+hola soy 52269,vuelta:51,contador:51
+hola soy 52264,vuelta:51,contador:51
+hola soy 52265,vuelta:51,contador:51
+hola soy 52271,vuelta:51,contador:51
+hola soy 52270,vuelta:51,contador:51
+hola soy 52272,vuelta:51,contador:51
+hola soy 52273,vuelta:51,contador:51
+hola soy 52266,vuelta:52,contador:52
+hola soy 52269,vuelta:52,contador:52
+hola soy 52264,vuelta:52,contador:52
+hola soy 52265,vuelta:52,contador:52
+hola soy 52271,vuelta:52,contador:52
+hola soy 52270,vuelta:52,contador:52
+hola soy 52272,vuelta:52,contador:52
+hola soy 52273,vuelta:52,contador:52
+hola soy 52266,vuelta:53,contador:53
+hola soy 52269,vuelta:53,contador:53
+hola soy 52265,vuelta:53,contador:53
+hola soy 52264,vuelta:53,contador:53
+hola soy 52271,vuelta:53,contador:53
+hola soy 52272,vuelta:53,contador:53
+hola soy 52270,vuelta:53,contador:53
+hola soy 52273,vuelta:53,contador:53
+hola soy 52266,vuelta:54,contador:54
+hola soy 52269,vuelta:54,contador:54
+hola soy 52264,vuelta:54,contador:54
+hola soy 52265,vuelta:54,contador:54
+hola soy 52271,vuelta:54,contador:54
+hola soy 52272,vuelta:54,contador:54
+hola soy 52270,vuelta:54,contador:54
+hola soy 52273,vuelta:54,contador:54
+hola soy 52266,vuelta:55,contador:55
+hola soy 52269,vuelta:55,contador:55
+hola soy 52264,vuelta:55,contador:55
+hola soy 52265,vuelta:55,contador:55
+hola soy 52271,vuelta:55,contador:55
+hola soy 52270,vuelta:55,contador:55
+hola soy 52272,vuelta:55,contador:55
+hola soy 52273,vuelta:55,contador:55
+hola soy 52266,vuelta:56,contador:56
+hola soy 52269,vuelta:56,contador:56
+hola soy 52265,vuelta:56,contador:56
+hola soy 52264,vuelta:56,contador:56
+hola soy 52271,vuelta:56,contador:56
+hola soy 52270,vuelta:56,contador:56
+hola soy 52272,vuelta:56,contador:56
+hola soy 52273,vuelta:56,contador:56
+hola soy 52266,vuelta:57,contador:57
+hola soy 52269,vuelta:57,contador:57
+hola soy 52265,vuelta:57,contador:57
+hola soy 52264,vuelta:57,contador:57
+hola soy 52271,vuelta:57,contador:57
+hola soy 52270,vuelta:57,contador:57
+hola soy 52272,vuelta:57,contador:57
+hola soy 52273,vuelta:57,contador:57
+hola soy 52266,vuelta:58,contador:58
+hola soy 52269,vuelta:58,contador:58
+hola soy 52264,vuelta:58,contador:58
+hola soy 52265,vuelta:58,contador:58
+hola soy 52271,vuelta:58,contador:58
+hola soy 52270,vuelta:58,contador:58
+hola soy 52272,vuelta:58,contador:58
+hola soy 52273,vuelta:58,contador:58
+hola soy 52266,vuelta:59,contador:59
+hola soy 52269,vuelta:59,contador:59
+hola soy 52265,vuelta:59,contador:59
+hola soy 52264,vuelta:59,contador:59
+hola soy 52271,vuelta:59,contador:59
+hola soy 52270,vuelta:59,contador:59
+hola soy 52272,vuelta:59,contador:59
+hola soy 52273,vuelta:59,contador:59
+hola soy 52266,vuelta:60,contador:60
+hola soy 52269,vuelta:60,contador:60
+hola soy 52264,vuelta:60,contador:60
+hola soy 52265,vuelta:60,contador:60
+hola soy 52271,vuelta:60,contador:60
+hola soy 52270,vuelta:60,contador:60
+hola soy 52273,vuelta:60,contador:60
+hola soy 52272,vuelta:60,contador:60
+hola soy 52266,vuelta:61,contador:61
+hola soy 52269,vuelta:61,contador:61
+hola soy 52265,vuelta:61,contador:61
+hola soy 52264,vuelta:61,contador:61
+hola soy 52271,vuelta:61,contador:61
+hola soy 52272,vuelta:61,contador:61
+hola soy 52273,vuelta:61,contador:61
+hola soy 52270,vuelta:61,contador:61
+hola soy 52266,vuelta:62,contador:62
+hola soy 52269,vuelta:62,contador:62
+hola soy 52264,vuelta:62,contador:62
+hola soy 52265,vuelta:62,contador:62
+hola soy 52272,vuelta:62,contador:62
+hola soy 52273,vuelta:62,contador:62
+hola soy 52270,vuelta:62,contador:62
+hola soy 52271,vuelta:62,contador:62
+hola soy 52266,vuelta:63,contador:63
+hola soy 52269,vuelta:63,contador:63
+hola soy 52265,vuelta:63,contador:63
+hola soy 52264,vuelta:63,contador:63
+hola soy 52272,vuelta:63,contador:63
+hola soy 52273,vuelta:63,contador:63
+hola soy 52270,vuelta:63,contador:63
+hola soy 52271,vuelta:63,contador:63
+hola soy 52266,vuelta:64,contador:64
+hola soy 52269,vuelta:64,contador:64
+hola soy 52264,vuelta:64,contador:64
+hola soy 52265,vuelta:64,contador:64
+hola soy 52273,vuelta:64,contador:64
+hola soy 52272,vuelta:64,contador:64
+hola soy 52270,vuelta:64,contador:64
+hola soy 52271,vuelta:64,contador:64
+hola soy 52266,vuelta:65,contador:65
+hola soy 52269,vuelta:65,contador:65
+hola soy 52265,vuelta:65,contador:65
+hola soy 52264,vuelta:65,contador:65
+hola soy 52273,vuelta:65,contador:65
+hola soy 52272,vuelta:65,contador:65
+hola soy 52270,vuelta:65,contador:65
+hola soy 52271,vuelta:65,contador:65
+hola soy 52266,vuelta:66,contador:66
+hola soy 52269,vuelta:66,contador:66
+hola soy 52264,vuelta:66,contador:66
+hola soy 52265,vuelta:66,contador:66
+hola soy 52270,vuelta:66,contador:66
+hola soy 52272,vuelta:66,contador:66
+hola soy 52273,vuelta:66,contador:66
+hola soy 52271,vuelta:66,contador:66
+hola soy 52266,vuelta:67,contador:67
+hola soy 52269,vuelta:67,contador:67
+hola soy 52265,vuelta:67,contador:67
+hola soy 52264,vuelta:67,contador:67
+hola soy 52272,vuelta:67,contador:67
+hola soy 52273,vuelta:67,contador:67
+hola soy 52270,vuelta:67,contador:67
+hola soy 52271,vuelta:67,contador:67
+hola soy 52266,vuelta:68,contador:68
+hola soy 52269,vuelta:68,contador:68
+hola soy 52264,vuelta:68,contador:68
+hola soy 52265,vuelta:68,contador:68
+hola soy 52273,vuelta:68,contador:68
+hola soy 52272,vuelta:68,contador:68
+hola soy 52270,vuelta:68,contador:68
+hola soy 52271,vuelta:68,contador:68
+hola soy 52266,vuelta:69,contador:69
+hola soy 52269,vuelta:69,contador:69
+hola soy 52265,vuelta:69,contador:69
+hola soy 52264,vuelta:69,contador:69
+hola soy 52273,vuelta:69,contador:69
+hola soy 52270,vuelta:69,contador:69
+hola soy 52272,vuelta:69,contador:69
+hola soy 52271,vuelta:69,contador:69
+hola soy 52266,vuelta:70,contador:70
+hola soy 52269,vuelta:70,contador:70
+hola soy 52264,vuelta:70,contador:70
+hola soy 52265,vuelta:70,contador:70
+hola soy 52270,vuelta:70,contador:70
+hola soy 52272,vuelta:70,contador:70
+hola soy 52273,vuelta:70,contador:70
+hola soy 52271,vuelta:70,contador:70
+hola soy 52266,vuelta:71,contador:71
+hola soy 52269,vuelta:71,contador:71
+hola soy 52265,vuelta:71,contador:71
+hola soy 52264,vuelta:71,contador:71
+hola soy 52272,vuelta:71,contador:71
+hola soy 52270,vuelta:71,contador:71
+hola soy 52273,vuelta:71,contador:71
+hola soy 52271,vuelta:71,contador:71
+hola soy 52266,vuelta:72,contador:72
+hola soy 52269,vuelta:72,contador:72
+hola soy 52264,vuelta:72,contador:72
+hola soy 52265,vuelta:72,contador:72
+hola soy 52270,vuelta:72,contador:72
+hola soy 52272,vuelta:72,contador:72
+hola soy 52273,vuelta:72,contador:72
+hola soy 52271,vuelta:72,contador:72
+hola soy 52266,vuelta:73,contador:73
+hola soy 52269,vuelta:73,contador:73
+hola soy 52265,vuelta:73,contador:73
+hola soy 52264,vuelta:73,contador:73
+hola soy 52272,vuelta:73,contador:73
+hola soy 52270,vuelta:73,contador:73
+hola soy 52273,vuelta:73,contador:73
+hola soy 52271,vuelta:73,contador:73
+hola soy 52266,vuelta:74,contador:74
+hola soy 52269,vuelta:74,contador:74
+hola soy 52264,vuelta:74,contador:74
+hola soy 52265,vuelta:74,contador:74
+hola soy 52270,vuelta:74,contador:74
+hola soy 52272,vuelta:74,contador:74
+hola soy 52273,vuelta:74,contador:74
+hola soy 52271,vuelta:74,contador:74
+hola soy 52266,vuelta:75,contador:75
+hola soy 52269,vuelta:75,contador:75
+hola soy 52265,vuelta:75,contador:75
+hola soy 52264,vuelta:75,contador:75
+hola soy 52273,vuelta:75,contador:75
+hola soy 52272,vuelta:75,contador:75
+hola soy 52270,vuelta:75,contador:75
+hola soy 52271,vuelta:75,contador:75
+hola soy 52266,vuelta:76,contador:76
+hola soy 52269,vuelta:76,contador:76
+hola soy 52265,vuelta:76,contador:76
+hola soy 52264,vuelta:76,contador:76
+hola soy 52273,vuelta:76,contador:76
+hola soy 52272,vuelta:76,contador:76
+hola soy 52270,vuelta:76,contador:76
+hola soy 52271,vuelta:76,contador:76
+hola soy 52266,vuelta:77,contador:77
+hola soy 52269,vuelta:77,contador:77
+hola soy 52264,vuelta:77,contador:77
+hola soy 52265,vuelta:77,contador:77
+hola soy 52272,vuelta:77,contador:77
+hola soy 52273,vuelta:77,contador:77
+hola soy 52270,vuelta:77,contador:77
+hola soy 52271,vuelta:77,contador:77
+hola soy 52266,vuelta:78,contador:78
+hola soy 52269,vuelta:78,contador:78
+hola soy 52265,vuelta:78,contador:78
+hola soy 52264,vuelta:78,contador:78
+hola soy 52273,vuelta:78,contador:78
+hola soy 52270,vuelta:78,contador:78
+hola soy 52272,vuelta:78,contador:78
+hola soy 52271,vuelta:78,contador:78
+hola soy 52266,vuelta:79,contador:79
+hola soy 52269,vuelta:79,contador:79
+hola soy 52264,vuelta:79,contador:79
+hola soy 52265,vuelta:79,contador:79
+hola soy 52270,vuelta:79,contador:79
+hola soy 52273,vuelta:79,contador:79
+hola soy 52271,vuelta:79,contador:79
+hola soy 52272,vuelta:79,contador:79
+hola soy 52266,vuelta:80,contador:80
+hola soy 52269,vuelta:80,contador:80
+hola soy 52265,vuelta:80,contador:80
+hola soy 52264,vuelta:80,contador:80
+hola soy 52270,vuelta:80,contador:80
+hola soy 52271,vuelta:80,contador:80
+hola soy 52272,vuelta:80,contador:80
+hola soy 52273,vuelta:80,contador:80
+hola soy 52266,vuelta:81,contador:81
+hola soy 52269,vuelta:81,contador:81
+hola soy 52265,vuelta:81,contador:81
+hola soy 52264,vuelta:81,contador:81
+hola soy 52271,vuelta:81,contador:81
+hola soy 52272,vuelta:81,contador:81
+hola soy 52273,vuelta:81,contador:81
+hola soy 52270,vuelta:81,contador:81
+hola soy 52266,vuelta:82,contador:82
+hola soy 52269,vuelta:82,contador:82
+hola soy 52265,vuelta:82,contador:82
+hola soy 52264,vuelta:82,contador:82
+hola soy 52272,vuelta:82,contador:82
+hola soy 52273,vuelta:82,contador:82
+hola soy 52271,vuelta:82,contador:82
+hola soy 52270,vuelta:82,contador:82
+hola soy 52266,vuelta:83,contador:83
+hola soy 52269,vuelta:83,contador:83
+hola soy 52265,vuelta:83,contador:83
+hola soy 52264,vuelta:83,contador:83
+hola soy 52273,vuelta:83,contador:83
+hola soy 52271,vuelta:83,contador:83
+hola soy 52272,vuelta:83,contador:83
+hola soy 52270,vuelta:83,contador:83
+hola soy 52266,vuelta:84,contador:84
+hola soy 52269,vuelta:84,contador:84
+hola soy 52265,vuelta:84,contador:84
+hola soy 52264,vuelta:84,contador:84
+hola soy 52271,vuelta:84,contador:84
+hola soy 52272,vuelta:84,contador:84
+hola soy 52270,vuelta:84,contador:84
+hola soy 52273,vuelta:84,contador:84
+hola soy 52266,vuelta:85,contador:85
+hola soy 52269,vuelta:85,contador:85
+hola soy 52264,vuelta:85,contador:85
+hola soy 52265,vuelta:85,contador:85
+hola soy 52272,vuelta:85,contador:85
+hola soy 52271,vuelta:85,contador:85
+hola soy 52270,vuelta:85,contador:85
+hola soy 52273,vuelta:85,contador:85
+hola soy 52266,vuelta:86,contador:86
+hola soy 52269,vuelta:86,contador:86
+hola soy 52264,vuelta:86,contador:86
+hola soy 52265,vuelta:86,contador:86
+hola soy 52271,vuelta:86,contador:86
+hola soy 52270,vuelta:86,contador:86
+hola soy 52272,vuelta:86,contador:86
+hola soy 52273,vuelta:86,contador:86
+hola soy 52266,vuelta:87,contador:87
+hola soy 52269,vuelta:87,contador:87
+hola soy 52265,vuelta:87,contador:87
+hola soy 52264,vuelta:87,contador:87
+hola soy 52270,vuelta:87,contador:87
+hola soy 52272,vuelta:87,contador:87
+hola soy 52271,vuelta:87,contador:87
+hola soy 52273,vuelta:87,contador:87
+hola soy 52266,vuelta:88,contador:88
+hola soy 52269,vuelta:88,contador:88
+hola soy 52264,vuelta:88,contador:88
+hola soy 52265,vuelta:88,contador:88
+hola soy 52272,vuelta:88,contador:88
+hola soy 52270,vuelta:88,contador:88
+hola soy 52273,vuelta:88,contador:88
+hola soy 52271,vuelta:88,contador:88
+hola soy 52266,vuelta:89,contador:89
+hola soy 52269,vuelta:89,contador:89
+hola soy 52265,vuelta:89,contador:89
+hola soy 52264,vuelta:89,contador:89
+hola soy 52272,vuelta:89,contador:89
+hola soy 52273,vuelta:89,contador:89
+hola soy 52270,vuelta:89,contador:89
+hola soy 52271,vuelta:89,contador:89
+hola soy 52266,vuelta:90,contador:90
+hola soy 52269,vuelta:90,contador:90
+hola soy 52264,vuelta:90,contador:90
+hola soy 52265,vuelta:90,contador:90
+hola soy 52273,vuelta:90,contador:90
+hola soy 52271,vuelta:90,contador:90
+hola soy 52270,vuelta:90,contador:90
+hola soy 52272,vuelta:90,contador:90
+hola soy 52266,vuelta:91,contador:91
+hola soy 52269,vuelta:91,contador:91
+hola soy 52265,vuelta:91,contador:91
+hola soy 52264,vuelta:91,contador:91
+hola soy 52271,vuelta:91,contador:91
+hola soy 52270,vuelta:91,contador:91
+hola soy 52273,vuelta:91,contador:91
+hola soy 52272,vuelta:91,contador:91
+hola soy 52266,vuelta:92,contador:92
+hola soy 52269,vuelta:92,contador:92
+hola soy 52264,vuelta:92,contador:92
+hola soy 52265,vuelta:92,contador:92
+hola soy 52271,vuelta:92,contador:92
+hola soy 52270,vuelta:92,contador:92
+hola soy 52273,vuelta:92,contador:92
+hola soy 52272,vuelta:92,contador:92
+hola soy 52266,vuelta:93,contador:93
+hola soy 52269,vuelta:93,contador:93
+hola soy 52265,vuelta:93,contador:93
+hola soy 52264,vuelta:93,contador:93
+hola soy 52270,vuelta:93,contador:93
+hola soy 52273,vuelta:93,contador:93
+hola soy 52271,vuelta:93,contador:93
+hola soy 52272,vuelta:93,contador:93
+hola soy 52266,vuelta:94,contador:94
+hola soy 52269,vuelta:94,contador:94
+hola soy 52265,vuelta:94,contador:94
+hola soy 52264,vuelta:94,contador:94
+hola soy 52273,vuelta:94,contador:94
+hola soy 52270,vuelta:94,contador:94
+hola soy 52271,vuelta:94,contador:94
+hola soy 52272,vuelta:94,contador:94
+hola soy 52266,vuelta:95,contador:95
+hola soy 52269,vuelta:95,contador:95
+hola soy 52265,vuelta:95,contador:95
+hola soy 52264,vuelta:95,contador:95
+hola soy 52273,vuelta:95,contador:95
+hola soy 52271,vuelta:95,contador:95
+hola soy 52272,vuelta:95,contador:95
+hola soy 52270,vuelta:95,contador:95
+hola soy 52266,vuelta:96,contador:96
+hola soy 52269,vuelta:96,contador:96
+hola soy 52265,vuelta:96,contador:96
+hola soy 52264,vuelta:96,contador:96
+hola soy 52271,vuelta:96,contador:96
+hola soy 52272,vuelta:96,contador:96
+hola soy 52270,vuelta:96,contador:96
+hola soy 52273,vuelta:96,contador:96
+hola soy 52266,vuelta:97,contador:97
+hola soy 52269,vuelta:97,contador:97
+hola soy 52264,vuelta:97,contador:97
+hola soy 52265,vuelta:97,contador:97
+hola soy 52272,vuelta:97,contador:97
+hola soy 52271,vuelta:97,contador:97
+hola soy 52270,vuelta:97,contador:97
+hola soy 52273,vuelta:97,contador:97
+hola soy 52266,vuelta:98,contador:98
+hola soy 52269,vuelta:98,contador:98
+hola soy 52265,vuelta:98,contador:98
+hola soy 52264,vuelta:98,contador:98
+hola soy 52270,vuelta:98,contador:98
+hola soy 52272,vuelta:98,contador:98
+hola soy 52271,vuelta:98,contador:98
+hola soy 52273,vuelta:98,contador:98
+hola soy 52266,vuelta:99,contador:99
+hola soy 52269,vuelta:99,contador:99
+hola soy 52264,vuelta:99,contador:99
+hola soy 52265,vuelta:99,contador:99
+hola soy 52272,vuelta:99,contador:99
+hola soy 52271,vuelta:99,contador:99
+hola soy 52273,vuelta:99,contador:99
+hola soy 52270,vuelta:99,contador:99
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ git add 3_r[Kprocesos.py
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ git commit "2[K3"
+error: pathspec '3' did not match any file(s) known to git
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ git push
+Enumerating objects: 7, done.
+Counting objects:  14% (1/7)Counting objects:  28% (2/7)Counting objects:  42% (3/7)Counting objects:  57% (4/7)Counting objects:  71% (5/7)Counting objects:  85% (6/7)Counting objects: 100% (7/7)Counting objects: 100% (7/7), done.
+Delta compression using up to 2 threads
+Compressing objects:  16% (1/6)Compressing objects:  33% (2/6)Compressing objects:  50% (3/6)Compressing objects:  66% (4/6)Compressing objects:  83% (5/6)Compressing objects: 100% (6/6)Compressing objects: 100% (6/6), done.
+Writing objects:  16% (1/6)Writing objects:  33% (2/6)Writing objects:  50% (3/6)Writing objects:  66% (4/6)Writing objects:  83% (5/6)Writing objects: 100% (6/6)Writing objects: 100% (6/6), 1.19 KiB | 608.00 KiB/s, done.
+Total 6 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), done.[K
+To github.com:pablobotet2/Prpa.git
+   6fd64d7..7fbe7e1  main -> main
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ git push
+Everything up-to-date
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ git add 3_rp[K[Kprocesos.py
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ git commit -m "[K·[K"3·
+> 
+> 
+> 
+> .
+> ladhfkjadf
+> "
+[main 37263e2] 3·
+ 1 file changed, 32 insertions(+)
+ create mode 100644 3_procesos.py
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ git push
+Enumerating objects: 4, done.
+Counting objects:  25% (1/4)Counting objects:  50% (2/4)Counting objects:  75% (3/4)Counting objects: 100% (4/4)Counting objects: 100% (4/4), done.
+Delta compression using up to 2 threads
+Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
+Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 642 bytes | 642.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To github.com:pablobotet2/Prpa.git
+   7fbe7e1..37263e2  main -> main
+]0;pablo@pablo-HP-Pavilion-g6-Notebook-PC: ~/.config/spyder-py3/Prpa[01;32mpablo@pablo-HP-Pavilion-g6-Notebook-PC[00m:[01;34m~/.config/spyder-py3/Prpa[00m$ exit
+
+Script done on 2022-02-08 01:41:58+01:00 [COMMAND_EXIT_CODE="0"]
